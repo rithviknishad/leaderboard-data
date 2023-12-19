@@ -1,4 +1,4 @@
-name: Scrape Data
+name: Sync Leaderboard & Scrape Data
 
 on:
   schedule:
@@ -6,7 +6,35 @@ on:
   workflow_dispatch:
 
 jobs:
+  sync-leaderboard:
+    name: Update Leaderboard Submodule
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Update Submodule
+        run: |
+          git pull --recurse-submodules
+          git submodule update --remote --recursive
+
+      - name: Commit Update
+        run: |
+          git config --global user.name 'leaderboard[bot]'
+          git config --global user.email 'bot@noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git commit -am "Update leaderboard" && git push || echo "No changes to commit"
+
   run-scraper:
+    needs: sync-leaderboard
+    name: Scrape Data
     uses: coronasafe/leaderboard/.github/workflows/scraper.yaml@main
     if: github.ref == 'refs/heads/main'
     permissions:
