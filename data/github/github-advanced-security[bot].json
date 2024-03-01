@@ -1,37 +1,37 @@
 {
-  "last_updated": 1705740685.0,
+  "last_updated": 1705740685,
   "activity": [
     {
       "type": "pr_reviewed",
-      "time": 1705740685.0,
+      "time": "2024-01-20T08:51:25.000Z",
       "title": "coronasafe/care_fe#6487",
       "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1834646642",
       "text": "Abdm M3"
     },
     {
       "type": "pr_reviewed",
-      "time": 1704371897.0,
+      "time": "2024-01-04T12:38:17.000Z",
       "title": "coronasafe/care#1807",
       "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1804082800",
       "text": "added error handling for get_hip_id_by_health_id"
     },
     {
       "type": "pr_reviewed",
-      "time": 1704371326.0,
+      "time": "2024-01-04T12:28:46.000Z",
       "title": "coronasafe/care#1807",
       "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1804069506",
       "text": "added error handling for get_hip_id_by_health_id"
     },
     {
       "type": "pr_reviewed",
-      "time": 1698407368.0,
+      "time": "2023-10-27T11:49:28.000Z",
       "title": "coronasafe/care_fe#6495",
       "link": "https://github.com/coronasafe/care_fe/pull/6495#pullrequestreview-1701600572",
       "text": "Redirect to Original URL After Session Expiry and Re-login"
     },
     {
       "type": "pr_reviewed",
-      "time": 1698312975.0,
+      "time": "2023-10-26T09:36:15.000Z",
       "title": "coronasafe/care_fe#6495",
       "link": "https://github.com/coronasafe/care_fe/pull/6495#pullrequestreview-1699155657",
       "text": "Redirect to Original URL After Session Expiry and Re-login"

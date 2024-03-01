@@ -1,38 +1,38 @@
 {
-  "last_updated": 1709209269.0,
+  "last_updated": 1709209269,
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7295",
-      "time": 1709209269.0,
+      "time": "2024-02-29T12:21:09.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1971023002",
       "text": "> Is this issue still open? If not i would love to work on this issue\r\n\r\nThis issue is already taken. You can work on other issues. There are plenty of them..."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7295",
-      "time": 1709209212.0,
+      "time": "2024-02-29T12:20:12.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1971021375",
-      "text": "> Hi @aeswibon i have done changes in the frontend and its working fine, for the backend migrations I have made changes in facility.py model you can see in the figure, is it ok, how can I make migrations out of these changes.\r\n> <img alt=\"Screenshot 2024-02-29 at 3 05 53\u202fPM\" width=\"954\" src=\"https://private-user-images.githubusercontent.com/98007961/308872460-28fb6ffa-344a-4ba6-82dd-ed73eea1dc9f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMDkzOTMsIm5iZiI6MTcwOTIwOTA5MywicGF0aCI6Ii85ODAwNzk2MS8zMDg4NzI0NjAtMjhmYjZmZmEtMzQ0YS00YmE2LTgyZGQtZWQ3M2VlYTFkYzlmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDEyMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MzVmMmE4OGNmMmQ2Yzc0ZjlkMTljNzNmMjk5MDY0ZDdhNDg3ZmQ2MzgwNGU1ODIwMTc3MDNmMjlmNDY5OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mTbIiLKb3CAokjwLj2zGGrX9s2C6BedeWtTxaBDuRvM\"> <img alt=\"Screenshot 2024-02-29 at 3 06 30\u202fPM\" width=\"1141\" src=\"https://private-user-images.githubusercontent.com/98007961/308872476-0ccc7546-9cfb-446d-ab0f-d21449320fa3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMDkzOTMsIm5iZiI6MTcwOTIwOTA5MywicGF0aCI6Ii85ODAwNzk2MS8zMDg4NzI0NzYtMGNjYzc1NDYtOWNmYi00NDZkLWFiMGYtZDIxNDQ5MzIwZmEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDEyMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmNDc0Y2M0MDMzZDdkNjlhZmMwZWI1YTg5OTE1YzNmOTg2YWY1Y2RiZWZkMzgwMTIwMDA0ODk3ODQwOWEzOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XoQosSAP_W8-u_jhHkmQFL4EPB9WUeaIr4dcp0ofCSw\">\r\n\r\nYou can use makemigrations utility from django. \r\nRead this: https://docs.djangoproject.com/en/5.0/topics/migrations/"
+      "text": "> Hi @aeswibon i have done changes in the frontend and its working fine, for the backend migrations I have made changes in facility.py model you can see in the figure, is it ok, how can I make migrations out of these changes.\r\n> <img alt=\"Screenshot 2024-02-29 at 3 05 53 PM\" width=\"954\" src=\"https://private-user-images.githubusercontent.com/98007961/308872460-28fb6ffa-344a-4ba6-82dd-ed73eea1dc9f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMDkzOTMsIm5iZiI6MTcwOTIwOTA5MywicGF0aCI6Ii85ODAwNzk2MS8zMDg4NzI0NjAtMjhmYjZmZmEtMzQ0YS00YmE2LTgyZGQtZWQ3M2VlYTFkYzlmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDEyMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MzVmMmE4OGNmMmQ2Yzc0ZjlkMTljNzNmMjk5MDY0ZDdhNDg3ZmQ2MzgwNGU1ODIwMTc3MDNmMjlmNDY5OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mTbIiLKb3CAokjwLj2zGGrX9s2C6BedeWtTxaBDuRvM\"> <img alt=\"Screenshot 2024-02-29 at 3 06 30 PM\" width=\"1141\" src=\"https://private-user-images.githubusercontent.com/98007961/308872476-0ccc7546-9cfb-446d-ab0f-d21449320fa3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMDkzOTMsIm5iZiI6MTcwOTIwOTA5MywicGF0aCI6Ii85ODAwNzk2MS8zMDg4NzI0NzYtMGNjYzc1NDYtOWNmYi00NDZkLWFiMGYtZDIxNDQ5MzIwZmEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDEyMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmNDc0Y2M0MDMzZDdkNjlhZmMwZWI1YTg5OTE1YzNmOTg2YWY1Y2RiZWZkMzgwMTIwMDA0ODk3ODQwOWEzOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XoQosSAP_W8-u_jhHkmQFL4EPB9WUeaIr4dcp0ofCSw\">\r\n\r\nYou can use makemigrations utility from django. \r\nRead this: https://docs.djangoproject.com/en/5.0/topics/migrations/"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7295",
-      "time": 1709172137.0,
+      "time": "2024-02-29T02:02:17.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1970263837",
       "text": "> Hi @sainak @aeswibon i want to work on the issue, if its free as the frontend part is very easy and its done should I create a pull request. For the already created data we need to change it from backend for permanent resolution should I create a pull request on backend repo.\r\n\r\nHave assigned the issue to you. You can open the PR now..."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7295",
-      "time": 1709137171.0,
+      "time": "2024-02-28T16:19:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1969345279",
       "text": "> Hi! If no one else is working on this issue, I can gladly take this up.. I also have a doubt, I think the migration part is BE related, right? whatever comes up from BE we are showing it in \"/facility\" page [specifically in FacilityCard.tsx]..\r\n\r\n@Vibhu1710 Would you like to work on this issue??"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7172",
-      "time": 1709105697.0,
+      "time": "2024-02-28T07:34:57.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7172",
       "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)",
       "turnaround_time": 73877
@@ -40,7 +40,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7172",
-      "time": 1709105697.0,
+      "time": "2024-02-28T07:34:57.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7172",
       "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)",
       "collaborated_with": [
@@ -50,14 +50,14 @@
     },
     {
       "type": "pr_reviewed",
-      "time": 1709046072.0,
+      "time": "2024-02-27T15:01:12.000Z",
       "title": "coronasafe/care#1839",
       "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1903770550",
       "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709043862.0,
+      "time": "2024-02-27T14:24:22.000Z",
       "title": "coronasafe/care#1898",
       "link": "https://github.com/coronasafe/care/pull/1898#pullrequestreview-1903660952",
       "text": "fix: Update validation for Daily Round form"
@@ -65,27 +65,27 @@
     {
       "type": "issue_closed",
       "title": "coronasafe/care#1047",
-      "time": 1709042873.0,
+      "time": "2024-02-27T14:07:53.000Z",
       "link": "https://github.com/coronasafe/care/issues/1047",
       "text": "Issue in bed option in consultation form"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708956854.0,
+      "time": "2024-02-26T14:14:14.000Z",
       "title": "coronasafe/care#1911",
       "link": "https://github.com/coronasafe/care/pull/1911#pullrequestreview-1900989725",
       "text": "fix: Adds pagination to Facility linked list API"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708951697.0,
+      "time": "2024-02-26T12:48:17.000Z",
       "title": "coronasafe/care#1911",
       "link": "https://github.com/coronasafe/care/pull/1911#pullrequestreview-1900794366",
       "text": "fix: Adds pagination to Facility linked list API"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708951690.0,
+      "time": "2024-02-26T12:48:10.000Z",
       "title": "coronasafe/care#1911",
       "link": "https://github.com/coronasafe/care/pull/1911#pullrequestreview-1900794130",
       "text": "fix: Adds pagination to Facility linked list API"
@@ -93,41 +93,41 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1911",
-      "time": 1708681168.0,
+      "time": "2024-02-23T09:39:28.000Z",
       "link": "https://github.com/coronasafe/care/pull/1911#issuecomment-1961005533",
       "text": "@sainak Can you check the PR?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1911",
-      "time": 1708680361.0,
+      "time": "2024-02-23T09:26:01.000Z",
       "link": "https://github.com/coronasafe/care/pull/1911",
       "text": "fix: Adds pagination to Facility linked list API"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7257",
-      "time": 1708680211.0,
+      "time": "2024-02-23T09:23:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7257",
       "text": "fix: Limit number of facilities a single user can be linked to"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7219",
-      "time": 1708675815.0,
+      "time": "2024-02-23T08:10:15.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7219#issuecomment-1960890285",
       "text": "As discussed in EOD, would be adding pagination...\r\n\r\n"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1898",
-      "time": 1708351485.0,
+      "time": "2024-02-19T14:04:45.000Z",
       "link": "https://github.com/coronasafe/care/pull/1898",
       "text": "fix: Update validation for Daily Round form"
     },
     {
       "type": "pr_reviewed",
-      "time": 1708349655.0,
+      "time": "2024-02-19T13:34:15.000Z",
       "title": "coronasafe/care#1839",
       "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1888430209",
       "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
@@ -135,14 +135,14 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1775",
-      "time": 1708006167.0,
+      "time": "2024-02-15T14:09:27.000Z",
       "link": "https://github.com/coronasafe/care/issues/1775#issuecomment-1946171644",
       "text": "I would like to work on it..."
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7196",
-      "time": 1707885975.0,
+      "time": "2024-02-14T04:46:15.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7196",
       "text": "fix: hide the diagonses card if it's empty",
       "turnaround_time": 8268
@@ -150,7 +150,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7196",
-      "time": 1707885975.0,
+      "time": "2024-02-14T04:46:15.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7196",
       "text": "fix: hide the diagonses card if it's empty",
       "collaborated_with": [
@@ -160,14 +160,14 @@
     },
     {
       "type": "pr_reviewed",
-      "time": 1707819165.0,
+      "time": "2024-02-13T10:12:45.000Z",
       "title": "coronasafe/care#1839",
       "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1877482480",
       "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
     },
     {
       "type": "pr_reviewed",
-      "time": 1707571473.0,
+      "time": "2024-02-10T13:24:33.000Z",
       "title": "coronasafe/care#1882",
       "link": "https://github.com/coronasafe/care/pull/1882#pullrequestreview-1873638756",
       "text": "Fix prefetch_related in PatientInvestigationViewSet"
@@ -175,20 +175,20 @@
     {
       "type": "issue_opened",
       "title": "coronasafe/care#1881",
-      "time": 1707567773.0,
+      "time": "2024-02-10T12:22:53.000Z",
       "link": "https://github.com/coronasafe/care/issues/1881",
       "text": "Getting 500 internal server error when calling endpoint `/api/v1/investigation`"
     },
     {
       "type": "pr_reviewed",
-      "time": 1707565629.0,
+      "time": "2024-02-10T11:47:09.000Z",
       "title": "coronasafe/care_fe#7172",
       "link": "https://github.com/coronasafe/care_fe/pull/7172#pullrequestreview-1873620290",
       "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
     },
     {
       "type": "pr_reviewed",
-      "time": 1707565624.0,
+      "time": "2024-02-10T11:47:04.000Z",
       "title": "coronasafe/care_fe#7172",
       "link": "https://github.com/coronasafe/care_fe/pull/7172#pullrequestreview-1873620282",
       "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
@@ -196,111 +196,111 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1839",
-      "time": 1707483009.0,
+      "time": "2024-02-09T12:50:09.000Z",
       "link": "https://github.com/coronasafe/care/pull/1839#issuecomment-1935873920",
       "text": "@sainak Can you check the PR?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7196",
-      "time": 1707399152.0,
+      "time": "2024-02-08T13:32:32.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7196",
       "text": "fix: hide the diagonses card if it's empty"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7172",
-      "time": 1707216733.0,
+      "time": "2024-02-06T10:52:13.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7172#issuecomment-1929260865",
       "text": "> What's the issue?\r\n\r\nFacing difficulty in converting handleLoadMore function. Can you help me in that. Just pushed the bug commit..."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7172",
-      "time": 1707205741.0,
+      "time": "2024-02-06T07:49:01.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7172#issuecomment-1928951271",
       "text": "@rithviknishad Facing difficulties in migrating the `src/Components/Facility/Investigations/Reports/**`."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7172",
-      "time": 1707196191.0,
+      "time": "2024-02-06T05:09:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7172#issuecomment-1928795334",
       "text": "> @aeswibon `src/Components/Facility/Investigations/Reports/**` has not been migrated\r\n> \r\n> <img alt=\"image\" width=\"1182\" src=\"https://private-user-images.githubusercontent.com/25143503/302508040-7cff728c-4fd6-4dd2-89a7-d81e2862212e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcxOTYzODIsIm5iZiI6MTcwNzE5NjA4MiwicGF0aCI6Ii8yNTE0MzUwMy8zMDI1MDgwNDAtN2NmZjcyOGMtNGZkNi00ZGQyLTg5YTctZDgxZTI4NjIyMTJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA2VDA1MDgwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxMjhlYzFlNzZlMGIzZDU0OWYzYmFmNTZmNTUwMDdkYjljYmMzMzMwNTIxNmZiNWVjNTg4N2Y2NjJhNTVjY2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.uOnsEg0tDF5hmTqLYFkgjdjx36dQ1rkGp9A6ZcX3doM\">\r\n\r\n@rithviknishad I am working on it, that's why the PR was draft.."
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7172",
-      "time": 1707141987.0,
+      "time": "2024-02-05T14:06:27.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7172",
       "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7070",
-      "time": 1705767557.0,
+      "time": "2024-01-20T16:19:17.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7070",
       "text": "Frontend: Treat no input as null/undefined (to have a clear distinction between no value specified and value specified but the value could be 0)"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1839",
-      "time": 1705767478.0,
+      "time": "2024-01-20T16:17:58.000Z",
       "link": "https://github.com/coronasafe/care/pull/1839#issuecomment-1902165782",
       "text": "> @aparnacoronasafe, Can you confirm whether zero can be a valid value in blood pressure fields?\r\n\r\nhttps://github.com/coronasafe/care/issues/1810#issuecomment-1902106254\r\n\r\nThe tasks are done just waiting for the confirmation from Aparna. Once the reply comes, then I will make the PR ready."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1810",
-      "time": 1705759856.0,
+      "time": "2024-01-20T14:10:56.000Z",
       "link": "https://github.com/coronasafe/care/issues/1810#issuecomment-1902106254",
       "text": "@aparnacoronasafe, Can you confirm whether zero can be a valid value in blood pressure fields?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1839",
-      "time": 1705750365.0,
+      "time": "2024-01-20T11:32:45.000Z",
       "link": "https://github.com/coronasafe/care/pull/1839",
       "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1810",
-      "time": 1705744948.0,
+      "time": "2024-01-20T10:02:28.000Z",
       "link": "https://github.com/coronasafe/care/issues/1810#issuecomment-1902053971",
       "text": "I would like to work on it."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6464",
-      "time": 1704185934.0,
+      "time": "2024-01-02T08:58:54.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/6464#issuecomment-1873755257",
       "text": "> @aeswibon\r\n> \r\n> <img alt=\"image\" width=\"960\" src=\"https://private-user-images.githubusercontent.com/57055998/293656362-cd204061-564e-4264-af94-6c73ef238cdb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxODYxOTMsIm5iZiI6MTcwNDE4NTg5MywicGF0aCI6Ii81NzA1NTk5OC8yOTM2NTYzNjItY2QyMDQwNjEtNTY0ZS00MjY0LWFmOTQtNmM3M2VmMjM4Y2RiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAyVDA4NTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViZDNkZmE4MmI5YTk5NGE4ZGRhYzJlNzBhNzJmMTM2OGQ0MTJhNmRhYTFhNjk5NzVhNjBhZjI0ZDA4MTAyNWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.tgZlq-IZvNdhWeU7nOCyQ-b0ZSEPt61dSpRBlEK2HdY\">\r\n> * [ ]  iam able to create a sample request using a staff id, can you reconfirm all the access control\r\n\r\nOkay I will check"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1589",
-      "time": 1703666414.0,
+      "time": "2023-12-27T08:40:14.000Z",
       "link": "https://github.com/coronasafe/care/pull/1589#issuecomment-1870077434",
       "text": "The PR is good for testing"
     },
     {
       "type": "pr_reviewed",
-      "time": 1703664729.0,
+      "time": "2023-12-27T08:12:09.000Z",
       "title": "coronasafe/care_fe#6512",
       "link": "https://github.com/coronasafe/care_fe/pull/6512#pullrequestreview-1796879673",
       "text": "fix(location): duty doctors and staff for each location in a facility"
     },
     {
       "type": "pr_reviewed",
-      "time": 1701090229.0,
+      "time": "2023-11-27T13:03:49.000Z",
       "title": "coronasafe/care#1689",
       "link": "https://github.com/coronasafe/care/pull/1689#pullrequestreview-1750380374",
       "text": "fix(asset_location): added duty_staff endpoint"
     },
     {
       "type": "pr_reviewed",
-      "time": 1700225585.0,
+      "time": "2023-11-17T12:53:05.000Z",
       "title": "coronasafe/care#1689",
       "link": "https://github.com/coronasafe/care/pull/1689#pullrequestreview-1736902377",
       "text": "fix(asset_location): added duty_staff endpoint"

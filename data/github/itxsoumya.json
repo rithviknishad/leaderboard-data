@@ -1,38 +1,38 @@
 {
-  "last_updated": 1709176266.0,
+  "last_updated": 1709176266,
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care#1926",
-      "time": 1709176266.0,
+      "time": "2024-02-29T03:11:06.000Z",
       "link": "https://github.com/coronasafe/care/pull/1926#issuecomment-1970317934",
       "text": "@sainak got it. I would be fixing that. Though it is not the fix for that issue But still don't you think this can be also merged for the validation issue. "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1926",
-      "time": 1709139021.0,
+      "time": "2024-02-28T16:50:21.000Z",
       "link": "https://github.com/coronasafe/care/pull/1926",
       "text": "added validate on ResetPasswordUserSerializer for username issue #1434"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1434",
-      "time": 1708745979.0,
+      "time": "2024-02-24T03:39:39.000Z",
       "link": "https://github.com/coronasafe/care/issues/1434#issuecomment-1962238053",
       "text": "can you this issue to me?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1702",
-      "time": 1708685247.0,
+      "time": "2024-02-23T10:47:27.000Z",
       "link": "https://github.com/coronasafe/care/issues/1702#issuecomment-1961104378",
       "text": "Hello, can I work on this issue ?\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6715",
-      "time": 1708683520.0,
+      "time": "2024-02-23T10:18:40.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6715#issuecomment-1961063945",
       "text": "hello maintainers please assign this issue to me \r\n "
     }

@@ -1,38 +1,38 @@
 {
-  "last_updated": 1709203534.0,
+  "last_updated": 1709203534,
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#289",
-      "time": 1709203534.0,
+      "time": "2024-02-29T10:45:34.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/289#issuecomment-1970831847",
       "text": "can you please assign me \r\n"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#289",
-      "time": 1709202158.0,
+      "time": "2024-02-29T10:22:38.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/289",
       "text": "Change Default Values of Roles for Initial Page Load on Leaderboard Page"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#288",
-      "time": 1709201186.0,
+      "time": "2024-02-29T10:06:26.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/288#issuecomment-1970803487",
       "text": "hi @rithviknishad https://github.com/coronasafe/leaderboard/pull/282 could have fixed it \r\n\r\n@Lobi29 you can modify if it can be further improved "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#280",
-      "time": 1709195858.0,
+      "time": "2024-02-29T08:37:38.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/280#issuecomment-1970658066",
-      "text": "![Screenshot_2024-02-29-14-05-34-25_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/coronasafe/leaderboard/assets/111575806/d21e272d-b580-4222-89bb-1ccd38adf677)\r\nWe don't get the option like that I guess \ud83e\udee0 will look into it \ud83d\udc4d"
+      "text": "![Screenshot_2024-02-29-14-05-34-25_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/coronasafe/leaderboard/assets/111575806/d21e272d-b580-4222-89bb-1ccd38adf677)\r\nWe don't get the option like that I guess 🫠 will look into it 👍"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#282",
-      "time": 1709188123.0,
+      "time": "2024-02-29T06:28:43.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/282",
       "text": "UI improvements",
       "turnaround_time": 37106
@@ -40,63 +40,63 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#286",
-      "time": 1709157863.0,
+      "time": "2024-02-28T22:04:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/286",
       "text": "Fixes sorting logic"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#284",
-      "time": 1709152726.0,
+      "time": "2024-02-28T20:38:46.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/284#issuecomment-1969879089",
       "text": "have made branch from exisiting brach because of changed types in pr #280"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#284",
-      "time": 1709152552.0,
+      "time": "2024-02-28T20:35:52.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/284",
       "text": "Improves Top Contributors Display Logic"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#282",
-      "time": 1709151018.0,
+      "time": "2024-02-28T20:10:18.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/282",
       "text": "UI improvements"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#280",
-      "time": 1709146076.0,
+      "time": "2024-02-28T18:47:56.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/280#issuecomment-1969620516",
       "text": "@rithviknishad this pr is ready for review"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard-data#17",
-      "time": 1709146061.0,
+      "time": "2024-02-28T18:47:41.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/17#issuecomment-1969620014",
       "text": "@rithviknishad can you please review "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#17",
-      "time": 1709145970.0,
+      "time": "2024-02-28T18:46:10.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/17",
       "text": "updated markdowns "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#280",
-      "time": 1709145931.0,
+      "time": "2024-02-28T18:45:31.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/280",
       "text": "update user role field to be single role "
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7250",
-      "time": 1709105813.0,
+      "time": "2024-02-28T07:36:53.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7250",
       "text": "Improves Input Field UI for phone number input",
       "turnaround_time": 83199
@@ -104,7 +104,7 @@
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7250",
-      "time": 1709105813.0,
+      "time": "2024-02-28T07:36:53.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7250",
       "text": "Improves Input Field UI for phone number input",
       "collaborated_with": [
@@ -114,104 +114,104 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#271",
-      "time": 1709104825.0,
+      "time": "2024-02-28T07:20:25.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/271#issuecomment-1968374702",
       "text": "please assign this to me\r\n"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#271",
-      "time": 1709104808.0,
+      "time": "2024-02-28T07:20:08.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/271",
       "text": "Update user role field to be a single role "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7253",
-      "time": 1709069192.0,
+      "time": "2024-02-27T21:26:32.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1967619553",
       "text": "@nihal467 \r\nI think \"Dummy Facility 40\" is not present causing tests to fail \r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/fc6739a1-c762-4142-b23c-d11f53ebca00)\r\n![Screenshot from 2024-02-28 02-35-59](https://github.com/coronasafe/care_fe/assets/111575806/34c26716-d863-458f-9d3c-de7ea7bd2549)\r\n\r\nhttps://github.com/coronasafe/care_fe/blob/bda15df327003b9bf741edc004fe1eb5d111f463/cypress/e2e/patient_spec/patient_consultation.cy.ts#L22\r\nI ran tests locally by changing \"Dummy Facility 40\" to \"James\" and able to pass all the tests \r\n![Screenshot from 2024-02-28 02-49-02](https://github.com/coronasafe/care_fe/assets/111575806/208745ed-03c7-4286-a467-09a56ea52c5a)\r\n\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7253",
-      "time": 1709068856.0,
+      "time": "2024-02-27T21:20:56.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1967610886",
       "text": "@nihal467 \r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/6be159a3-eb4c-47ec-bba0-300f9d6c4b58)\r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/9beb1aea-63a4-4a23-afca-f48ac5e0e835)\r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/79ad13e7-7d3e-45c6-9d30-d8d4b5307663)\r\n\r\nI think Dummy Facility 40 is not present and creating tests to fail \r\n\r\nafter running tests locally by changing Dummy Facility 40 to James , I was able to pass all tests  \r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/6b70e6a6-b10a-4b31-a3d2-f7e5890fde60)\r\n\r\n\r\nreference https://github.com/coronasafe/care_fe/blob/bda15df327003b9bf741edc004fe1eb5d111f463/cypress/e2e/patient_spec/patient_consultation.cy.ts#L22"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#267",
-      "time": 1709056090.0,
+      "time": "2024-02-27T17:48:10.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/267",
       "text": "Added Tailwind Classes Sorting Plugin"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#245",
-      "time": 1709046408.0,
+      "time": "2024-02-27T15:06:48.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1966763942",
       "text": "@rithviknishad done "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#245",
-      "time": 1709026191.0,
+      "time": "2024-02-27T09:29:51.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1966131243",
       "text": "@rithviknishad can you please review "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#257",
-      "time": 1709010665.0,
+      "time": "2024-02-27T05:11:05.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/257#issuecomment-1965798677",
       "text": "I would like to work on this issue "
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#257",
-      "time": 1709010615.0,
+      "time": "2024-02-27T05:10:15.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/257",
       "text": "Add Tailwind Classes Sorting Plugin to ESLint Config"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#245",
-      "time": 1708981283.0,
+      "time": "2024-02-26T21:01:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1965261788",
       "text": "There is definitely something wrong in the sorting order. I will raise a different pull request for it or commit to this directly"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#245",
-      "time": 1708981078.0,
+      "time": "2024-02-26T20:57:58.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1965253689",
       "text": "@rithviknishad this pr is ready for review , \r\nby extension just sorted the tailwind classes causing merge conflicts"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7278",
-      "time": 1708955512.0,
+      "time": "2024-02-26T13:51:52.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7278#issuecomment-1964197119",
       "text": "I want to work on this please assign me \r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#254",
-      "time": 1708952127.0,
+      "time": "2024-02-26T12:55:27.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1964083866",
       "text": "i think this will cause a lot of merge conflicts?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#245",
-      "time": 1708862148.0,
+      "time": "2024-02-25T11:55:48.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1962909961",
       "text": "@rithviknishad sure ! thanks "
     },
     {
       "type": "pr_reviewed",
-      "time": 1708862080.0,
+      "time": "2024-02-25T11:54:40.000Z",
       "title": "coronasafe/leaderboard#245",
       "link": "https://github.com/coronasafe/leaderboard/pull/245#pullrequestreview-1899661375",
       "text": "select filter for leaderboard contributors role"
@@ -219,112 +219,112 @@
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#245",
-      "time": 1708861888.0,
+      "time": "2024-02-25T11:51:28.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1962908485",
       "text": "@rithviknishad as of now i only implemented single select filter by role  \r\nand will work on multi select , since it requires custom select component to be implemented first "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#245",
-      "time": 1708861744.0,
+      "time": "2024-02-25T11:49:04.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/245",
       "text": "select filter for leaderboard contributors role"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#4558",
-      "time": 1708692738.0,
+      "time": "2024-02-23T12:52:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/4558#issuecomment-1961275058",
       "text": "Hey @Ashesh3, could you please help me navigate to the camera feed page? I am having difficulty in pointing its exact location.\r\n\r\nhow ever i reached to feed page from \r\nhttp://localhost:4000/facility/64c2be92-47fd-47c3-9d3d-7891245f4611/patient/a4b86382-8998-4d66-a448-dbd2ce40da6b/consultation/ab765f7b-79a4-4e49-be88-2cdd63c834ca/feed\r\n\r\ni just placed /feed at the end however i am not able to find any way to navigate to feed from \r\nhttp://localhost:4000/facility/64c2be92-47fd-47c3-9d3d-7891245f4611/patient/a4b86382-8998-4d66-a448-dbd2ce40da6b/consultation/ab765f7b-79a4-4e49-be88-2cdd63c834ca/\r\n\r\nAm I on the wrong page ? "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#231",
-      "time": 1708682469.0,
+      "time": "2024-02-23T10:01:09.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/231#issuecomment-1961038363",
       "text": "I want to work on this issue , can you please assign me !"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#14",
-      "time": 1708680973.0,
+      "time": "2024-02-23T09:36:13.000Z",
       "link": "https://github.com/coronasafe/leaderboard-data/pull/14",
       "text": "Update UdaySagar-Git.md"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#4558",
-      "time": 1708672687.0,
+      "time": "2024-02-23T07:18:07.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/4558#issuecomment-1960837547",
       "text": "Is this issue still open ? can I work on this @Ashesh3 "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7250",
-      "time": 1708671209.0,
+      "time": "2024-02-23T06:53:29.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7250#issuecomment-1960815765",
       "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/1a401884-4389-475b-b894-06ae9aa950f3)\r\n\r\nThanks for the suggestion \r\n\r\nshould I decrease more or this looks fine?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7253",
-      "time": 1708669530.0,
+      "time": "2024-02-23T06:25:30.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1960793001",
       "text": "[Screencast from 23-02-24 11:52:34 AM IST.webm](https://github.com/coronasafe/care_fe/assets/111575806/4144fef3-6186-4f65-a283-6a861b19db11)\r\n\r\n@rithviknishad I hope this fixes the issue , let me know if it requires any more changes "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#5907",
-      "time": 1708643572.0,
+      "time": "2024-02-22T23:12:52.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5907#issuecomment-1960492796",
       "text": "@nihal467 i would like to work on this "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7253",
-      "time": 1708643029.0,
+      "time": "2024-02-22T23:03:49.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7253",
       "text": "Auto-close dropdown when single select option is selected in a multi select dropdown "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#5944",
-      "time": 1708631144.0,
+      "time": "2024-02-22T19:45:44.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/5944#issuecomment-1960142950",
       "text": "hi @Ashesh3 looks like he is not active , can i work on this issue ?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7251",
-      "time": 1708625822.0,
+      "time": "2024-02-22T18:17:02.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7251#issuecomment-1960006873",
       "text": "please ignore this "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7251",
-      "time": 1708625711.0,
+      "time": "2024-02-22T18:15:11.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7251",
       "text": "Revert 1 fix #7248"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7250",
-      "time": 1708620584.0,
+      "time": "2024-02-22T16:49:44.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7250",
       "text": "Improves Input Field UI for phone number input"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7248",
-      "time": 1708583920.0,
+      "time": "2024-02-22T06:38:40.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7248#issuecomment-1958801198",
       "text": "i would like to work on this \r\n"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7248",
-      "time": 1708583897.0,
+      "time": "2024-02-22T06:38:17.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7248",
       "text": "Improve Input Field UI for Phone Number"
     }

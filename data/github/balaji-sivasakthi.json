@@ -1,38 +1,38 @@
 {
-  "last_updated": 1709130137.0,
+  "last_updated": 1709130137,
   "activity": [
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7280",
-      "time": 1709130137.0,
+      "time": "2024-02-28T14:22:17.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7280#issuecomment-1969089746",
       "text": "@nihal467 ?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7102",
-      "time": 1709037668.0,
+      "time": "2024-02-27T12:41:08.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1966459978",
       "text": "> Have you set the Authorization headers when making the request?\r\n\r\nI'm not sure, this is the stuff  I cached from the browser."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7102",
-      "time": 1708978493.0,
+      "time": "2024-02-26T20:14:53.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1965170915",
       "text": "@rithviknishad Could you explain to me why this issue is throwing a 403 error?\r\n```\r\nGET /api/v1/facility/42d0dbbd-e3e1-4d64-88ff-f606b90975b0/asset_location/6ee4cae3-f9e3-40d4-9b47-337ac8052f76/\r\nHTTP 403 Forbidden\r\nAllow: GET, PUT, PATCH, DELETE, HEAD, OPTIONS\r\nContent-Type: application/json\r\nVary: Accept\r\n\r\n{\r\n    \"detail\": \"Authentication credentials were not provided.\"\r\n}\r\n```"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7280",
-      "time": 1708976718.0,
+      "time": "2024-02-26T19:45:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7280",
       "text": "feat: added minimum quantity in inventory list"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6612",
-      "time": 1708976439.0,
+      "time": "2024-02-26T19:40:39.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6612#issuecomment-1965113511",
       "text": "@nihal467 I would like to work on this issue."
     }

@@ -1,16 +1,16 @@
 {
-  "last_updated": 1709223738.0,
+  "last_updated": 1709223738,
   "activity": [
     {
       "type": "pr_reviewed",
-      "time": 1709223738.0,
+      "time": "2024-02-29T16:22:18.000Z",
       "title": "coronasafe/care#1929",
       "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1909325834",
       "text": "Add age validation in PatientDetailSerializer"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709188774.0,
+      "time": "2024-02-29T06:39:34.000Z",
       "title": "coronasafe/care#1929",
       "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1908077302",
       "text": "Add age validation in PatientDetailSerializer"
@@ -18,20 +18,20 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1929",
-      "time": 1709156786.0,
+      "time": "2024-02-28T21:46:26.000Z",
       "link": "https://github.com/coronasafe/care/pull/1929",
       "text": "Add age validation in PatientDetailSerializer"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1928",
-      "time": 1709156227.0,
+      "time": "2024-02-28T21:37:07.000Z",
       "link": "https://github.com/coronasafe/care/pull/1928",
       "text": "Add validation checks in ResourceRequestSerializer"
     },
     {
       "type": "pr_reviewed",
-      "time": 1709127472.0,
+      "time": "2024-02-28T13:37:52.000Z",
       "title": "coronasafe/care#1925",
       "link": "https://github.com/coronasafe/care/pull/1925#pullrequestreview-1906292983",
       "text": "Add validation checks in Resource Request serializer"
@@ -39,77 +39,77 @@
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1925",
-      "time": 1709124276.0,
+      "time": "2024-02-28T12:44:36.000Z",
       "link": "https://github.com/coronasafe/care/pull/1925",
       "text": "Add validation checks in Resource Request serializer"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7281",
-      "time": 1709028729.0,
+      "time": "2024-02-27T10:12:09.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7281#issuecomment-1966209840",
       "text": "@aparnacoronasafe I have noticed there is no field for date of birth in the user model. There is only the age field. Now, should I convert the date of birth field while creating the user to the age field, or need to change the backend?"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7281",
-      "time": 1709018816.0,
+      "time": "2024-02-27T07:26:56.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7281#issuecomment-1965937827",
       "text": "I would like to work on this issue. "
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1922",
-      "time": 1709015568.0,
+      "time": "2024-02-27T06:32:48.000Z",
       "link": "https://github.com/coronasafe/care/pull/1922",
       "text": "Add validationCheck in PatientDetailSerializer"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1915",
-      "time": 1708983191.0,
+      "time": "2024-02-26T21:33:11.000Z",
       "link": "https://github.com/coronasafe/care/issues/1915#issuecomment-1965330364",
       "text": "I would like to work on this issue"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1918",
-      "time": 1708982080.0,
+      "time": "2024-02-26T21:14:40.000Z",
       "link": "https://github.com/coronasafe/care/pull/1918",
       "text": "Fix Facility.DoesNotExist error in Resource request"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1914",
-      "time": 1708958089.0,
+      "time": "2024-02-26T14:34:49.000Z",
       "link": "https://github.com/coronasafe/care/issues/1914#issuecomment-1964292975",
       "text": "i would like to work on this issue "
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1840",
-      "time": 1708902901.0,
+      "time": "2024-02-25T23:15:01.000Z",
       "link": "https://github.com/coronasafe/care/issues/1840#issuecomment-1963096032",
       "text": "I want to work on this. Can you please provide more information regarding the issue?"
     },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7264",
-      "time": 1708698980.0,
+      "time": "2024-02-23T14:36:20.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7264",
       "text": "Fix Translations in login page"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7260",
-      "time": 1708690878.0,
+      "time": "2024-02-23T12:21:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7260#issuecomment-1961231835",
       "text": "i would like to work on this"
     },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7260",
-      "time": 1708690743.0,
+      "time": "2024-02-23T12:19:03.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7260",
       "text": "Translations are not made properly in some places"
     }
